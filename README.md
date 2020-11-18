@@ -9,3 +9,6 @@ The result has been published in IEEE ICBDA 2020 https://ieeexplore.ieee.org/abs
 *Yi Hu*
 *Jionglong Su*
 *Zhengyong Jiang*
+# updating done work 13/11/2020
+we have try to use hierarchical Deep Q Network to further reduce the action space to solve the transition fee problem
+the result has been accepted by *ICAART 2021* as 25 minutes oral paper.
